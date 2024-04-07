@@ -1,10 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
-
-# About Me
 
 Hello there! 👋 I'm Kishan S. Patel, a software/data engineer with a passion for crafting innovative solutions and leveraging data to drive impactful decisions. 
 
