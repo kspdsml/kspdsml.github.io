@@ -23,9 +23,9 @@ navbar-links:
   About: "aboutme"
   Experience: "experience"
   Projects:
-    - NFL Data Explorer: "https://beautifuljekyll.com"
-    - Multi-Agent Reinforcement Learning: "www.google.com"
-    - DynamicSim GUI: "https://www.markdowntutorial.com/"
+    - NFL Data Explorer: "nfldataexplorer"
+    - Multi-Agent Reinforcement Learning: "marl"
+    - DynamicSim GUI: "dynamicsim"
   Skills: "skills"
   Contact: "contact"
 
