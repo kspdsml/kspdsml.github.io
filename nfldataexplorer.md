@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Project Name
-permalink: /projects/project-name/
+title: NFL Data Explorer
+permalink: /nfldataexplorer
 ---
 
 # Project Name
